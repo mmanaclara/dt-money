@@ -4,9 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=ReactJS&message=Ignite&color=00875F&labelColor=141716" alt="Trilha ReactJS do Ignite" />
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mmanaclara/pomo-timer?color=00875F&labelColor=141716">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mmanaclara/pomo-timer?color=00875F&labelColor=141716">
-  <img alt="Último commit" src="https://img.shields.io/github/last-commit/mmanaclara/pomo-timer?color=00875F&labelColor=141716">
+  <img alt="Linguagem mais usada na aplicação" src="https://img.shields.io/github/languages/top/mmanaclara/dt-money?color=00875F&labelColor=141716">
+  <img alt="Contagem de linguagens usadas na aplicação" src="https://img.shields.io/github/languages/count/mmanaclara/dt-money?color=00875F&labelColor=141716">
+  <img alt="Último commit" src="https://img.shields.io/github/last-commit/mmanaclara/dt-money?color=00875F&labelColor=141716">
 </p>
 
 <br>
