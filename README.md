@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ✔ Buscar por filtro<br/>
 
 ## 📖 Conhecimento
-Com o Pomo Timer, aprendi a utilizar:
+Com o DT Money, utilizei:
 - `styled-components` para que a estilização e criação de temas;
 
 ## Utilização do projeto
