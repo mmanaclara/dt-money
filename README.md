@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://www.npmjs.com/package/styled-components)
+- [Radix UI](https://www.radix-ui.com/)
 
 ## 🛠 Funcionalidades
 ✔ Adicionar uma nova transação<br/>
@@ -38,6 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📖 Conhecimento
 Com o DT Money, utilizei:
 - `styled-components` para que a estilização e criação de temas;
+- `radix ui` para tornar o modal acessível;
 
 ## Utilização do projeto
 
