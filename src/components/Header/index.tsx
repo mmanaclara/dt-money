@@ -1,8 +1,9 @@
-import * as AlertDialog from '@radix-ui/react-alert-dialog';
+import * as Dialog from '@radix-ui/react-dialog';
 
 import { HeaderContainer, HeaderContent, NewTransactionButton } from "./styles";
 
 import logoImg from '../../assets/logo.svg'
+import { NewTransactionModal } from '../NewTransactionModal';
 
 export function Header() {
     return (
@@ -10,19 +11,13 @@ export function Header() {
             <HeaderContent>
                 <img src={logoImg} alt="" />
 
-                <AlertDialog.Root>
-                    <AlertDialog.Trigger asChild>
+                <Dialog.Root>
+                    <Dialog.Trigger asChild>
                         <NewTransactionButton>Nova transação</NewTransactionButton>
-                    </AlertDialog.Trigger>
+                    </Dialog.Trigger>
 
-                    <AlertDialog.Portal>
-                        <AlertDialog.Overlay />
-                        <AlertDialog.Content>
-                            <AlertDialog.Title>Nova transação</AlertDialog.Title>
-                            <AlertDialog.Cancel />
-                        </AlertDialog.Content>
-                    </AlertDialog.Portal>
-                </AlertDialog.Root>
+                    <NewTransactionModal />
+                </Dialog.Root>
             </HeaderContent>
         </HeaderContainer>
     )
