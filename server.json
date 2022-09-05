@@ -15,6 +15,14 @@
             "category": "Alimentação",
             "price": 89,
             "createdAt": "2022-09-06T12:44:05.095Z"
+        },
+        {
+            "id": 3,
+            "description": "Passagens - São Paulo",
+            "type": "outcome",
+            "category": "Viagem",
+            "price": 1450,
+            "createdAt": "2022-09-26T12:24:05.095Z"
         }
     ]
 }
