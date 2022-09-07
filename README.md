@@ -28,6 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Styled Components](https://www.npmjs.com/package/styled-components)
 - [Radix UI](https://www.radix-ui.com/)
 - [JSON Server](https://www.npmjs.com/package/json-server)
+- [Context](https://pt-br.reactjs.org/docs/context.html)
+- [React Hook Form](https://react-hook-form.com/)
+- [Zod](https://zod.dev/)
 
 ## 🛠 Funcionalidades
 ✔ Adicionar uma nova transação<br/>
@@ -39,9 +42,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📖 Conhecimento
 Com o DT Money, utilizei:
-- `styled-components` para que a estilização e criação de temas;
+- `styled-components` para estilização e criação de temas;
 - `radix ui` para tornar o modal acessível;
 - `json server` para simular um back-end;
+- `useContext` para compartilhar os dados das transações entre componentes;
+- `react hook form` para melhorar o desempenho dos formulários;
+- `zod` para validar os formulários;
 
 ## Utilização do projeto
 
