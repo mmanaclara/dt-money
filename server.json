@@ -1,28 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 9000,
-            "createdAt": "2022-09-05T12:44:05.095Z"
-        },
-        {
-            "id": 2,
-            "description": "Sushi",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 89,
-            "createdAt": "2022-09-06T12:44:05.095Z"
-        },
-        {
-            "id": 3,
-            "description": "Passagens - São Paulo",
-            "type": "outcome",
-            "category": "Viagem",
-            "price": 1450,
-            "createdAt": "2022-09-26T12:24:05.095Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 9000,
+      "createdAt": "2022-09-05T12:44:05.095Z"
+    },
+    {
+      "id": 2,
+      "description": "Sushi",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 89,
+      "createdAt": "2022-09-06T12:44:05.095Z"
+    },
+    {
+      "id": 3,
+      "description": "Passagens - São Paulo",
+      "type": "outcome",
+      "category": "Viagem",
+      "price": 1450,
+      "createdAt": "2022-09-26T12:24:05.095Z"
+    },
+    {
+      "description": "Pizzaria",
+      "price": 52,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2022-09-08T15:36:35.714Z",
+      "id": 4
+    },
+    {
+      "description": "Hotel",
+      "price": 250,
+      "category": "Viagem",
+      "type": "outcome",
+      "createdAt": "2022-09-08T16:01:55.453Z",
+      "id": 5
+    }
+  ]
 }
