@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Context](https://pt-br.reactjs.org/docs/context.html)
 - [React Hook Form](https://react-hook-form.com/)
 - [Zod](https://zod.dev/)
+- [Axios](https://axios-http.com/ptbr/)
 
 ## 🛠 Funcionalidades
 ✔ Adicionar uma nova transação<br/>
@@ -48,6 +49,7 @@ Com o DT Money, utilizei:
 - `useContext` para compartilhar os dados das transações entre componentes;
 - `react hook form` para melhorar o desempenho dos formulários;
 - `zod` para validar os formulários;
+- `axios`  para fazer requisição HTTP;
 
 ## Utilização do projeto
 
