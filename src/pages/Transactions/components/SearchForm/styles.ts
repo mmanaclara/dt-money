@@ -14,7 +14,7 @@ export const SearchFormContainer = styled.form`
       color: ${(props) => props.theme['gray-500']};
     }
   }
-  
+
   button {
     display: flex;
     align-items: center;
